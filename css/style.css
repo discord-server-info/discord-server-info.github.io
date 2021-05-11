@@ -1,0 +1,46 @@
+@charset "utf-8";
+html,
+body {
+ background-color: beige;
+}
+
+body {
+  max-width:60em;
+  margin: 1em auto;
+}
+
+#backlink img {
+  width: 4em;
+}
+
+
+h1 {
+	background-color: firebrick;
+    color: beige;
+	padding: 0.5em;
+	font-family: sans-serif;
+	border-radius: 0 1em 1em 1em;
+}
+
+h2 {
+	font-size: 2.6em;
+	color: firebrick;
+	background-color: LightSalmon ;
+	border: thin solid;
+	font-family: cursive; 
+	text-align: center;
+}
+
+p, 
+ul, ol,
+table {
+  font-size: 1.3em; 
+  text-align: justify; 
+  font-family: sans-serif; 
+  color: #654321;
+}
+
+ul ul {
+	font-size: 1em;
+}
+
