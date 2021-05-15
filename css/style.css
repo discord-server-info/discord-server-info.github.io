@@ -1,7 +1,7 @@
 @charset "utf-8";
 html,
 body {
- background-color: beige;
+ background-color: #dcecf5;
 }
 
 body {
@@ -15,8 +15,8 @@ body {
 
 
 h1 {
-	background-color: firebrick;
-    color: beige;
+	background-color: #00d4de;
+	color: #253080;
 	padding: 0.5em;
 	font-family: sans-serif;
 	border-radius: 0 1em 1em 1em;
@@ -24,10 +24,10 @@ h1 {
 
 h2 {
 	font-size: 2.6em;
-	color: firebrick;
-	background-color: LightSalmon ;
+	color: #253080;
+	background-color: #00d4de;
 	border: thin solid;
-	font-family: cursive; 
+	font-family: cursive;
 	text-align: center;
 }
 
@@ -37,7 +37,7 @@ table {
   font-size: 1.3em; 
   text-align: justify; 
   font-family: sans-serif; 
-  color: #654321;
+  color: #253080;
 }
 
 ul ul {
